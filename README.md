@@ -2,8 +2,6 @@
 
 This project shows how an **AI Agent** can make smart decisions, validate its answers, and show its reasoning path — all in real time with **Streamlit** and **LangGraph**.
 
-![Agent Workflow](https://via.placeholder.com/800x400.png?text=Insert+your+workflow+image+here)
-
 ---
 
 ## 🚀 What It Does
